@@ -4,6 +4,9 @@
 
 アマチュア無線機（GPS対応 D-STAR 機）から出力される位置情報を Traccar に登録し、地図上で可視化することができます。
 
+![](https://github.com/7m4mon/dprs2traccar/blob/main/dprs2traccar_sc.png)
+
+
 ---
 
 ## 🔧 主な機能
